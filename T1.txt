@@ -1,0 +1,11 @@
+ create a folder
+right click select gitbash 
+git init and press enter (set folder as master)
+git remote add origin (paste the link)
+git status(to know all the commit folders)
+git add T1.txt
+git commit -m "first commit"
+git push origin master(push)
+then take github and refresh
+
+
