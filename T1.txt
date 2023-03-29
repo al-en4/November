@@ -1,3 +1,4 @@
+ git hub procedures
  create a folder
 right click select gitbash 
 git init and press enter (set folder as master)
